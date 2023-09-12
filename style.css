@@ -7,6 +7,7 @@
 body {
   margin: 60px auto;
   max-width: 100%;
+  background-color: background: linear-gradient(90deg, rgb(252, 115, 156) 0%, rgb(139, 102, 241) 100%);
 }
 
 div {
